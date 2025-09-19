@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Rolling Barge Platform",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "e7323502-5e87-445b-b993-a91b74820cb5",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
